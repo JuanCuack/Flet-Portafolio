@@ -15,6 +15,14 @@ Este proyecto aplica conceptos avanzados de **Programación Orientada a Objetos 
 
 ---
 
+<p align="center">
+  <kbd>
+    <img src="assets/Preview.png" width="600" alt="Flet Portfolio Preview">
+  </kbd>
+</p>
+
+---
+
 ## 💎 Características del Portafolio (Key Features)
 
 * **🎨 Interfaz Dinámica y Responsiva:** Sistema visual construido con Flet que se adapta a diferentes resoluciones, integrando un diseño limpio y profesional.
