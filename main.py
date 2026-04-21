@@ -161,7 +161,7 @@ class PortafolioWeb(ft.Container):
                     controls=[
                         ft.Column(col={"xs": 12, "md": 6}, spacing=20, controls=[
                             ft.Text("PROYECTOS RECIENTES", size=14, color=self.acento, weight="bold"),
-                            self.resumen_card("CodeShift", "Entrenamiento 2D en Programación"),
+                            self.resumen_card("CodeShift", "Videojuego 2D de Programación."),
                             self.resumen_card("Horarius", "Gestión académica de horarios."),
                             self.resumen_card("DarkQuiz Engine", "Motor de cuestionarios dinámicos."),
                         ]),
